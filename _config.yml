@@ -1,5 +1,13 @@
-title: Cayman theme
-description: Cayman is a clean, responsive theme for GitHub Pages.
+title:
+description:
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-cayman
+plugins:
+  - jemoji
+
+home:
+  home_url: https://sage.z2a.dev
+  about_url: https://sage.z2a.dev/about.html
+  contact_url: https://sage.z2a.dev/contact.html
+  read_url: https://sage.z2a.dev/read-list.html
