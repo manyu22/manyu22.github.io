@@ -1,13 +1,41 @@
-title:
-description:
-show_downloads: true
+title: Abhimanyu's Thought Log
+description: Welcome to my website
+url: https://www.z2a.dev
+show_links: true
+
 google_analytics:
+google_verify:
+
 theme: jekyll-theme-cayman
+
 plugins:
   - jemoji
 
-home:
-  home_url: https://sage.z2a.dev
-  about_url: https://sage.z2a.dev/about.html
-  contact_url: https://sage.z2a.dev/contact.html
-  read_url: https://sage.z2a.dev/read-list.html
+# Links to include in top navigation
+# For external links add external: true
+links:
+  - title: Home
+    url: /
+  - title: About
+    url: /about/
+  - title: Readings 
+    url: /read-list/
+  - title: Categories
+    url: /categories/
+
+disqus_shortname:     z2a-dev
+
+# Owner/author information
+owner:
+  name: Abhimanyu Panwar
+  avatar: /author_images/pp.jpeg
+  bio:
+  email: esthetemanyu@gmail.com
+  # Social networking links. Update and remove as you like.
+  twitter: abhimanyupanwar
+  linkedin: abhimanyu-panwar
+  google_scholar:
+  google_plus:
+  github: manyu22
+  facebook: aesthetemanyu
+  instagram: aesthetemanyu

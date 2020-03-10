@@ -1,6 +1,11 @@
 ---
 layout: default
+comments: true
+categories: [Poetry]
+tags: [society, environment, inequality]
+share: true
 title: जिन्हे नाज़ है हिन्द पर वो कहाँ है
+emoticon: walking
 description: This article is going to be the 21st Century rendition of the classic song by the same name composed by legendary poet and lyricist Sahir Ludhianvi who brought to fore the problems of independent India post-British occupation. Though India has progressed many folds since then, but some problems remain and many more have cropped up.
 ---
 
