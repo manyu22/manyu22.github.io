@@ -3,6 +3,7 @@ layout: default
 title: Categories
 description: “When one has been threatened with a great injustice, one accepts a smaller as a favour.“ - Jane Welsh Carlyle
 permalink: /categories/
+show_links: true
 ---
 All the posts listed by their categories.
 

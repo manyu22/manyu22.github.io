@@ -3,6 +3,7 @@ layout: default
 title: About Me
 description: “It is error only, and not truth, that shrinks from inquiry.“ - Thomas Paine
 permalink: /about/
+show_links: true
 ---
 # About
 {% if site.owner.avatar contains 'http://' %}

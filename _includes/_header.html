@@ -1,0 +1,11 @@
+<header class="page-header" role="banner">
+  <h1 class="project-name">{{ page.title | default: site.title }}</h1>
+  <h2 class="project-tagline">{{ page.description | default: site.description }}</h2>
+
+  {% if page.show_links %}
+    {% for link in site.links %}
+      <a class="btn" href="{% if link.external %}{{ link.url }}{% else %}{{ site.url }}{{ link.url }}{% endif %}" {% if link.external %}target="_blank"{% endif %}>{{ link.title }}</a>
+    {% endfor %}
+  {% endif %}
+
+</header>
