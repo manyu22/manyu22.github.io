@@ -2,7 +2,7 @@ title: Abhimanyu's Thought Log
 description: Welcome to my website
 url: https://www.z2a.dev
 
-google_analytics:
+google_analytics: true
 google_verify:
 
 theme: jekyll-theme-cayman
