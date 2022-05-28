@@ -367,7 +367,7 @@ a:hover { text-decoration: underline; }
 
 .site-footer-credits { color: #819198; }
 
-img.bio-photo { width: 150px; height: 150px; -webkit-border-radius: 100px; -moz-border-radius: 100px; border-radius: 100px; }
+img.bio-photo { width: 150px; height: 150px; -webkit-border-radius: 100px; -moz-border-radius: 100px; border-radius: 100px; margin: auto; display: block; }
 
 .my-span-icon a { text-decoration: none; }
 
