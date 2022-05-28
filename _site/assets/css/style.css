@@ -389,4 +389,6 @@ img.bio-photo { width: 150px; height: 150px; -webkit-border-radius: 100px; -moz-
 
 @media screen and (max-width: 42em) { .my-svg-icon { width: 36px; height: 36px; } }
 
+.hindi-words { font-family: 'Yatra One', cursive; text-align: center; }
+
 /*# sourceMappingURL=style.css.map */

@@ -29,25 +29,32 @@ Nature has amazing healing powers as is evident by reports around the globe thes
 ---
 #### Following lines are inline with the mood above, how we have put ourselves (me) before nature (mother).
 
+{:.hindi-words}
 # माँ से पहले मैं
 
+{:.hindi-words}
 ठहरी थमी जो साँसे हमारी<br/>
 कुदरत ने एक हुंकार सी ली है |
 
+{:.hindi-words}
 उसकी सिसकियाँ जो सुनाई न देती थी<br/>
 आज किलकारियाँ सी सुनाई तोह दी है |
 
+{:.hindi-words}
 ऐ बशर के निगहबाँ नज़र उठा तोह जरा<br/>
 लालच के विसाएल से ऊपर कुदरत के तराने और भी है |
 
+{:.hindi-words}
 बन चले हम बुत के बन्दे<br/>
 फितरत में खुदगर्ज़ी का फितूर सा है<br/>
 पकड़ वो छुटी डगर, जहाँ ख़ुदा के बन्दों की होड़ सी है |
 
+{:.hindi-words}
 जानता हूँ ये सैलाब भी रुक जायेगा<br/>
 इस मुश्किल का भी सूरज अस्त हो जायेगा<br/>
 पर क्या तू मैं से पहले तू माँ को ला पायेगा ?
 
+{:.hindi-words}
 करेंगे बातें हम तुम और कुछ लोग ऐसी ही<br/>
 फिर भी इस्तेहसाल का परचम ही कुदरत के गुलशन में लहराएगा<br/>
 माँ का ओहदाह मैं से ना ऊंचा हो पायेगा |
@@ -55,6 +62,7 @@ Nature has amazing healing powers as is evident by reports around the globe thes
 ---
 #### For the uninitiated following are the meaning of the some of the words used in the poetry.
 
+{:.hindi-words}
 हुंकार:  Roar/Grunt<br/>
 बशर:  Mankind<br/>
 निगहबाँ:  Guard/Caretaker<br/>
