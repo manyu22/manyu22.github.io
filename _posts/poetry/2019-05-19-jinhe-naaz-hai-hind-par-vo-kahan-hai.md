@@ -9,6 +9,9 @@ emoticon: walking
 description: This article is going to be the 21st Century rendition of the classic song by the same name composed by legendary poet and lyricist Sahir Ludhianvi who brought to fore the problems of independent India post-British occupation.
 show_links: true
 ---
+:{{page.emoticon}}: {{ page.date | date_to_string }} **{{ page.title }}**
+#### tags: {% for tag in page.tags %} `{{tag}}` {% endfor %}
+---
 > Though India has progressed many folds since then, but some problems remain and many more have cropped up. The 2019 Indian general election is currently underway, so there can be no better time to write this rendition.
 
 {:.hindi-words}

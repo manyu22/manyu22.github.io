@@ -10,6 +10,9 @@ description: Thoughts around life, aspirations, baser instincts and deminishing 
 show_links: true
 
 ---
+:{{page.emoticon}}: {{ page.date | date_to_string }} **{{ page.title }}**
+#### tags: {% for tag in page.tags %} `{{tag}}` {% endfor %}
+---
 ![]({{ site.url }}/images/blog_images/IMG_0139.PNG){:target="_blank"}
 
 {:.hindi-words}

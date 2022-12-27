@@ -10,6 +10,9 @@ description: Musing around pandemic, nature, greed, mythology, balance, et al.
 show_links: true
 
 ---
+:{{page.emoticon}}: {{ page.date | date_to_string }} **{{ page.title }}**
+#### tags: {% for tag in page.tags %} `{{tag}}` {% endfor %}
+---
 As the world fights the corona virus pandemic, our global civilization turns into a closed shop. Our greed and unwarranted needs of the privileged has set us up for this unprecedented outbreak. Alongside it is fueled by our incessant cycle of world economy in which the material growth is the only cardinal rule. There is no global measure of world growth as strong as GDP. We do have Gross National Happiness Index which is reserved only for nations like Bhutan.
 
 What about peace of mind? What about equity? We turn a blind side to the problems like climate change. We have a geological epoch named on us Anthropocene, which is becoming synonymous with the sixth mass extinction.

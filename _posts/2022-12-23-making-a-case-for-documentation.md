@@ -4,11 +4,14 @@ comments: true
 categories: [Blog]
 tags: [software, documentation, maintenance]
 share: true
-title: Curious Case of Documentation
-emoticon: thought_balloon
+title: Curious Case of Documentation 
+emoticon: books
 description: Software is all about maintenance, each line of code is a liability
 show_links: true
 
+---
+:{{page.emoticon}}: {{ page.date | date_to_string }} **{{ page.title }}**
+#### tags: {% for tag in page.tags %} `{{tag}}` {% endfor %}
 ---
 
 I remember seeing a snippet of code for the first time in my school computer lab. It felt like Latin to me and I could hardly make sense of anything except for some mathematical operators scattered throughout. The computer lab teacher didn't make it any easier, either. He gave the impression that coding was only for the smartest of minds and created a sense of elitism.
