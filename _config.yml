@@ -27,7 +27,7 @@ disqus_shortname:     z2a-dev
 # Owner/author information
 owner:
   name: Abhimanyu Panwar
-  avatar: /author_images/pp.jpeg
+  avatar: #/author_images/pp.jpeg
   bio:
   email: aesthetemanyu@gmail.com
   # Social networking links. Update and remove as you like.

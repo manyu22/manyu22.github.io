@@ -9,7 +9,7 @@ show_links: true
 <img src="{{ site.owner.avatar }}" class="bio-photo" alt="{{ site.owner.name }} bio photo">
 {% elsif site.owner.avatar contains 'https://' %}
 <img src="{{ site.owner.avatar }}" class="bio-photo" alt="{{ site.owner.name }} bio photo">
-{% else %}
+{% elsif site.owner.avatar %}
 <img src="{{ site.url }}/images{{ site.owner.avatar }}" class="bio-photo" alt="{{ site.owner.name }} bio photo">
 {% endif %}
-Hi, I am Abhimanyu, a Software Engineer by profession and a polymath by aspiration. I am a wildlife and nature enthusiast. A believer of gandhian values. On the lookout for simplfying things.
+I am Abhimanyu Panwar, software engineer, nature lover, sports enthusiast, reads non-fiction and I seek order in things and life in general. I yearns to be wise and simplify life, trying the art of not giving too importance to oneself.
