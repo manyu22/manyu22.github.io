@@ -12,4 +12,4 @@ show_links: true
 {% elsif site.owner.avatar %}
 <img src="{{ site.url }}/images{{ site.owner.avatar }}" class="bio-photo" alt="{{ site.owner.name }} bio photo">
 {% endif %}
-I am Abhimanyu Panwar, software engineer, nature lover, sports enthusiast, reads non-fiction and I seek order in things and life in general. I yearns to be wise and simplify life, trying the art of not giving too importance to oneself.
+I am Abhimanyu Panwar, a software engineer, nature lover, sports enthusiast, and an avid reader of non-fiction. I seek order in various aspects of life in general. I yearn to be wise and to simplify life, while practicing the art of not giving too much importance to oneself.
